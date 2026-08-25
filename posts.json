@@ -16,11 +16,5 @@
         "author": "zhaleh",
         "title": "my first post",
         "content": "hello flask"
-    },
-    {
-        "id": 4,
-        "author": "sam",
-        "title": "test",
-        "content": "test"
     }
 ]
